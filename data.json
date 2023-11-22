@@ -1,0 +1,11 @@
+{
+  "start": "yymmdd",
+  "schedule": "default",
+  "subjects": [
+    ["m1", "ma", "ja1"],
+    [],
+    [],
+    [],
+    []
+  ]
+}

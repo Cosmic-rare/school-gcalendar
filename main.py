@@ -1,3 +1,5 @@
-from lib import loadSetting
+from lib import loadSetting, loadData
 
 print(loadSetting())
+
+print(loadData())
