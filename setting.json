@@ -1,0 +1,31 @@
+{
+  "schedules": {
+    "default": [
+      ["08:40", "09:30"],
+      ["09:40", "10:30"],
+      ["10:40", "11:30"],
+      ["11:40", "12:30"],
+      ["13:10", "14:00"],
+      ["14:10", "15:00"],
+      ["15:10", "16:00"]
+    ]
+  },
+  "subjects": [
+    { "title": "現文", "id": "ja1", "color": 6, "join": false },
+    { "title": "言文", "id": "ja2", "color": 6, "join": false },
+    { "title": "数1", "id": "m1", "color": 7, "join": false },
+    { "title": "数A", "id": "ma", "color": 7, "join": false },
+    { "title": "英C", "id": "enc", "color": 4, "join": false },
+    { "title": "論表", "id": "eng", "color": 5, "join": false },
+    { "title": "物基", "id": "ph", "color": 11, "join": false },
+    { "title": "生基", "id": "bi", "color": 10, "join": false },
+    { "title": "地総", "id": "ge", "color": 5, "join": false },
+    { "title": "歴総", "id": "hi", "color": 3, "join": false },
+    { "title": "公共", "id": "pu", "color": 2, "join": false },
+    { "title": "体育", "id": "gy", "color": 1, "join": false },
+    { "title": "保健", "id": "he", "color": 1, "join": false },
+    { "title": "音楽", "id": "mu", "color": 9, "join": true },
+    { "title": "家庭", "id": "ho", "color": 6, "join": true },
+    { "title": "LHR", "id": "lhr", "color": 8, "join": false }
+  ]
+}
