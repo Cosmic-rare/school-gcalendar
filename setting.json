@@ -10,22 +10,22 @@
       ["15:10", "16:00"]
     ]
   },
-  "subjects": [
-    { "title": "現文", "id": "ja1", "color": 6, "join": false },
-    { "title": "言文", "id": "ja2", "color": 6, "join": false },
-    { "title": "数1", "id": "m1", "color": 7, "join": false },
-    { "title": "数A", "id": "ma", "color": 7, "join": false },
-    { "title": "英C", "id": "enc", "color": 4, "join": false },
-    { "title": "論表", "id": "eng", "color": 5, "join": false },
-    { "title": "物基", "id": "ph", "color": 11, "join": false },
-    { "title": "生基", "id": "bi", "color": 10, "join": false },
-    { "title": "地総", "id": "ge", "color": 5, "join": false },
-    { "title": "歴総", "id": "hi", "color": 3, "join": false },
-    { "title": "公共", "id": "pu", "color": 2, "join": false },
-    { "title": "体育", "id": "gy", "color": 1, "join": false },
-    { "title": "保健", "id": "he", "color": 1, "join": false },
-    { "title": "音楽", "id": "mu", "color": 9, "join": true },
-    { "title": "家庭", "id": "ho", "color": 6, "join": true },
-    { "title": "LHR", "id": "lhr", "color": 8, "join": false }
-  ]
+  "subjects": {
+    "ja1": { "title": "現文", "id": "ja1", "color": 6, "join": false },
+    "ja2": { "title": "言文", "id": "ja2", "color": 6, "join": false },
+    "m1": { "title": "数1", "id": "m1", "color": 7, "join": false },
+    "ma": { "title": "数A", "id": "ma", "color": 7, "join": false },
+    "enc": { "title": "英C", "id": "enc", "color": 4, "join": false },
+    "eng": { "title": "論表", "id": "eng", "color": 5, "join": false },
+    "ph": { "title": "物基", "id": "ph", "color": 11, "join": false },
+    "bi": { "title": "生基", "id": "bi", "color": 10, "join": false },
+    "ge": { "title": "地総", "id": "ge", "color": 5, "join": false },
+    "hi": { "title": "歴総", "id": "hi", "color": 3, "join": false },
+    "pu": { "title": "公共", "id": "pu", "color": 2, "join": false },
+    "gy": { "title": "体育", "id": "gy", "color": 1, "join": false },
+    "he": { "title": "保健", "id": "he", "color": 1, "join": false },
+    "mu": { "title": "音楽", "id": "mu", "color": 9, "join": true },
+    "ho": { "title": "家庭", "id": "ho", "color": 6, "join": true },
+    "lhr": { "title": "LHR", "id": "lhr", "color": 8, "join": false }
+  }
 }

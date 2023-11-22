@@ -1,11 +1,11 @@
 {
-  "start": "yymmdd",
+  "start": "23/11/20",
   "schedule": "default",
   "subjects": [
-    ["m1", "ma", "ja1"],
     [],
     [],
     [],
-    []
+    [],
+    ["ma", "gy", "enc", "ja2", "ja1", "he", "hi"]
   ]
 }
